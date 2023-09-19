@@ -229,3 +229,7 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+
+# Project Untracked Folder/Files
+/AngularProject/ClientApp/.angular/cache/15.2.7
+
